@@ -129,6 +129,10 @@
 
 * [Потоки и пулы потоков](../concurrency/Concurrency.md)
 
+## Сетевое программирование
+
+* [Неблокирующий сервер](../network/non-blocking.md)
+
 ## Разное
 
 * [Garbage Collector](../other/garbage_collector.md)
